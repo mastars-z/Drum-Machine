@@ -4,7 +4,7 @@ A browser-based drum machine built with **HTML, CSS, and Vanilla JavaScript** as
 
 The project lets users play different drum sounds using either the on-screen drum pads or keyboard shortcuts, with a few extra interactive features.
 
-** Here is the deployment link ** [https://drum-machine-two-sigma.vercel.app/](https://drum-machine-two-sigma.vercel.app/)
+**Here is the deployment link** [https://drum-machine-two-sigma.vercel.app/](https://drum-machine-two-sigma.vercel.app/)
 
 ## Features
 
